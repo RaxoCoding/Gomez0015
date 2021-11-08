@@ -40,7 +40,7 @@
 <!-- YOUTUBE:START -->
 - [Python Tutorial: Create a Passwords Vault App #3 Enhancing Security](https://www.youtube.com/watch?v=QBSAfahLuSk)
 - [Python Tutorial: Create a Passwords Vault App #2 | Adding Fields to Vault](https://www.youtube.com/watch?v=EDxQKsyUg40)
-- [Python Tutorial: Create a Passwords Vault App #1 | GUI & Login Database](https://www.youtube.com/watch?v=UrH2WCoYEVo)
+- [Python Tutorial: Create a Passwords Vault App #1 | GUI &amp; Login Database](https://www.youtube.com/watch?v=UrH2WCoYEVo)
 - [Python Tutorial: Create an Auto Clicker App #2 | Python script to Executable](https://www.youtube.com/watch?v=gXjNLTJZOL0)
 - [Python Tutorial: Create an Auto Clicker App #1 | Creating the Basic App](https://www.youtube.com/watch?v=jd85QCRnptE)
 <!-- YOUTUBE:END -->
