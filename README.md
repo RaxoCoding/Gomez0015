@@ -4,9 +4,9 @@
 
 ## I'm a Coder, Student, Intern, and CTO!!
 
-- 🌱 I’m currently learning Swift, Python, C
+- 🌱 I’m currently learning Python and Cybersecurity Skills
 - 👯 I’m looking to collaborate with other coders on their projects
-- 🥅 2021 Goals: Start my own website
+- 🥅 2022 Goals: Develop a project that will help millions.
 - ⚡ Fun fact: I love to play piano and dirtbike riding
 
 ### Connect with me:
