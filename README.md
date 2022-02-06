@@ -1,4 +1,4 @@
-### Hi there, I'm Oscar - aka [Raxo][linkedin] 👋
+### Hi there, I'm Oscar - aka [Raxo][portfolio] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RaxoCoding?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RaxoCoding?ref_src=twsrc%5Etfw)
 
@@ -55,3 +55,4 @@
 [twitter]: https://twitter.com/RaxoCoding
 [youtube]: https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw
 [linkedin]: https://www.linkedin.com/in/oscargomezceo/
+[portfolio]: https://gomez0015.github.io/PortfolioCMD/
