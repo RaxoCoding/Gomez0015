@@ -55,6 +55,8 @@
 
 ![Gomez0015's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomez0015&show_icons=true)
 
+<figure><embed src="https://wakatime.com/share/@e0b4663d-0a71-4786-bba3-d0a152b8e1de/3673207c-c713-4462-ac28-8963af842ecf.svg"></embed></figure>
+
 
 [twitter]: https://twitter.com/RaxoCoding
 [youtube]: https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw
