@@ -4,6 +4,10 @@
 
 ## I'm a Coder, Student, Intern, and CTO!!
 
+[Portfolio](https://gomez0015.github.io/PortfolioCMD/2)
+[CTF Time](https://ctftime.org/user/128132)
+[THM](https://tryhackme.com/p/RaxoCoding)
+
 - 🌱 I’m currently learning Python and Cybersecurity Skills
 - 👯 I’m looking to collaborate with other coders on their projects
 - 🥅 2022 Goals: Develop a project that will help millions.
