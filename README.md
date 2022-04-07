@@ -55,6 +55,8 @@
 
 ![Gomez0015's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomez0015&show_icons=true)
 
+[![wakatime](https://wakatime.com/badge/user/e0b4663d-0a71-4786-bba3-d0a152b8e1de.svg)](https://wakatime.com/@e0b4663d-0a71-4786-bba3-d0a152b8e1de)
+
 [twitter]: https://twitter.com/RaxoCoding
 [youtube]: https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw
 [linkedin]: https://www.linkedin.com/in/oscargomezceo/
