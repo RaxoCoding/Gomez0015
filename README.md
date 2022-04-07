@@ -4,7 +4,7 @@
 
 ## I'm a Coder, Student, Intern, and CTO!!
 
-[Portfolio](https://gomez0015.github.io/PortfolioCMD/2)
+[Portfolio](https://gomez0015.github.io/PortfolioCMD/)
 [CTF Time](https://ctftime.org/user/128132)
 [THM](https://tryhackme.com/p/RaxoCoding)
 
