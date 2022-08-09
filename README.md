@@ -23,13 +23,13 @@
 
 ### Languages and Tools:
 
-[<image src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue">][twitter]
-[<image src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow">][twitter]
-[<image src="https://img.shields.io/badge/C%20Language-black.svg?&style=for-the-badge&logo=c&logoColor=pink">][twitter]  
-[<image src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=windows%20terminal&logoColor=white">][twitter]       
-[<image src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue">][twitter]  
-[<image src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">][twitter] 
-[<image src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=blue">][twitter]  
+<image src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue">[twitter]
+<image src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow">[twitter]
+<image src="https://img.shields.io/badge/C%20Language-black.svg?&style=for-the-badge&logo=c&logoColor=pink">[twitter]  
+<image src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=windows%20terminal&logoColor=white">[twitter]       
+<image src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue">[twitter]  
+<image src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">[twitter] 
+<image src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=blue">[twitter]  
 
 <br />
 <br />
