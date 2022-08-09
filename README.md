@@ -26,9 +26,9 @@
 <image src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=black">
 <image src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow">  
 <image src="https://img.shields.io/badge/C%20Language-black.svg?&style=for-the-badge&logo=c&logoColor=pink">  
-<image src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=windows%20terminal&logoColor=white">       
-<image src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white">  
-<image src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=grey"> 
+<image src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=terminal&logoColor=white">       
+<image src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue">  
+<image src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"> 
 <image src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=darkblue">  
 
 <br />
