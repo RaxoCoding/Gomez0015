@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-<image src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=black">
+<image src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue">
 <image src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow">  
 <image src="https://img.shields.io/badge/C%20Language-black.svg?&style=for-the-badge&logo=c&logoColor=pink">  
 <image src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=windows%20terminal&logoColor=white">       
