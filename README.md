@@ -15,9 +15,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Oscar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Oscar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Oscar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<image src="https://img.shields.io/badge/Youtube-3776AB?style=for-the-badge&logo=youtube&logoColor=red">][youtube]
+[<image src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=lightblue">][twitter]
+[<image src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue">][linkedin]
 
 <br />
 
