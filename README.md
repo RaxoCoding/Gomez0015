@@ -49,9 +49,9 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw)
 
 ---
-![Gomez0015's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gomez0015)
-![Gomez0015's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomez0015&show_icons=true)
-![Gomez0015's Github Trophis](https://github-profile-trophy.vercel.app/?username=Gomez0015)
+![Gomez0015's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gomez0015&theme=onedark)
+![Gomez0015's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomez0015&show_icons=true&theme=onedark)
+![Gomez0015's Github Trophis](https://github-profile-trophy.vercel.app/?username=Gomez0015&theme=onedark)
   
 [![wakatime](https://wakatime.com/badge/user/e0b4663d-0a71-4786-bba3-d0a152b8e1de.svg)](https://wakatime.com/@e0b4663d-0a71-4786-bba3-d0a152b8e1de)
 
