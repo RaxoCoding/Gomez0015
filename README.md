@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- Create a Rubber Ducky Using Only Arduino Uno (Hackcyom Welcome Pack Unboxing at the end)](https://www.youtube.com/watch?v=tlYMNxC_Ptk)
+- [Create a Rubber Ducky Using Only Arduino Uno (Hackcyom Welcome Pack Unboxing at the end)](https://www.youtube.com/watch?v=tlYMNxC_Ptk)
 - [Python Tutorial: Create a Passwords Vault App #3 Enhancing Security](https://www.youtube.com/watch?v=QBSAfahLuSk)
 - [Python Tutorial: Create a Passwords Vault App #2 | Adding Fields to Vault](https://www.youtube.com/watch?v=EDxQKsyUg40)
 - [Python Tutorial: Create a Passwords Vault App #1 | GUI &amp; Login Database](https://www.youtube.com/watch?v=UrH2WCoYEVo)
