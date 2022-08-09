@@ -1,4 +1,4 @@
-### Hi there, I'm Oscar - aka [Raxo][portfolio] 👋
+### Hi there, I'm Oscar - aka [Raxo][twitter] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RaxoCoding?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RaxoCoding?ref_src=twsrc%5Etfw)
 
@@ -23,13 +23,13 @@
 
 ### Languages and Tools:
 
-<image src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue">
-<image src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow">  
-<image src="https://img.shields.io/badge/C%20Language-black.svg?&style=for-the-badge&logo=c&logoColor=pink">  
-<image src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=windows%20terminal&logoColor=white">       
-<image src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue">  
-<image src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"> 
-<image src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=blue">  
+[<image src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue">][twitter]
+[<image src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow">][twitter]
+[<image src="https://img.shields.io/badge/C%20Language-black.svg?&style=for-the-badge&logo=c&logoColor=pink">][twitter]  
+[<image src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=windows%20terminal&logoColor=white">][twitter]       
+[<image src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue">][twitter]  
+[<image src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">][twitter] 
+[<image src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=blue">][twitter]  
 
 <br />
 <br />
@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- Create a Rubber Ducky Using Only Arduino Uno (Hackcyom Welcome Pack Unboxing at the end)](https://www.youtube.com/watch?v=tlYMNxC_Ptk)
 - [Python Tutorial: Create a Passwords Vault App #3 Enhancing Security](https://www.youtube.com/watch?v=QBSAfahLuSk)
 - [Python Tutorial: Create a Passwords Vault App #2 | Adding Fields to Vault](https://www.youtube.com/watch?v=EDxQKsyUg40)
 - [Python Tutorial: Create a Passwords Vault App #1 | GUI &amp; Login Database](https://www.youtube.com/watch?v=UrH2WCoYEVo)
 - [Python Tutorial: Create an Auto Clicker App #2 | Python script to Executable](https://www.youtube.com/watch?v=gXjNLTJZOL0)
-- [Python Tutorial: Create an Auto Clicker App #1 | Creating the Basic App](https://www.youtube.com/watch?v=jd85QCRnptE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw)
