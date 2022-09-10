@@ -53,6 +53,15 @@
   ![Gomez0015's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gomez0015&theme=onedark)
   ![Gomez0015's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomez0015&show_icons=true&theme=onedark)
 
+---
+
+<!-- MY TOOLS -->
+### 🧰 My Custom Tools
+
+- [CafeScan - Port Scanner to enumerate services and get important information about them.](https://github.com/Gomez0015/CafeScan)
+- [SQLi_Helper - Simple script to help enumerate boolean & time based sql injections](https://github.com/Gomez0015/SQLi_Helper)
+
+---
   
 [![wakatime](https://wakatime.com/badge/user/e0b4663d-0a71-4786-bba3-d0a152b8e1de.svg)](https://wakatime.com/@e0b4663d-0a71-4786-bba3-d0a152b8e1de)
 
