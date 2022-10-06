@@ -4,8 +4,7 @@
 
 ## I'm a Coder, Student, Intern, and CTO!!
 
-[Portfolio](https://gomez0015.github.io/PortfolioCMD/)
-[CTF Time](https://ctftime.org/user/128132)
+[Root-Me](https://www.root-me.org/Raxo-589994)
 [THM](https://tryhackme.com/p/RaxoCoding)
 
 - 🌱 I’m currently learning Python and Cybersecurity Skills
