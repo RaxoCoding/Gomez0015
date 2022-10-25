@@ -37,6 +37,7 @@
 <!-- MY TOOLS -->
 ### 🧰 My Custom Tools
 
+- [text4shell - Script to test if endpoint(s) is vulnerable to text4shell](https://github.com/Gomez0015/text4shell)
 - [CafeScan - Port Scanner to enumerate services and get important information about them.](https://github.com/Gomez0015/CafeScan)
 - [sqli_help - Simple script to help enumerate boolean & time based sql injections](https://github.com/Gomez0015/sqli_help)
 - [dns_recon - Script for DNS enumeration](https://github.com/Gomez0015/dns_recon)
