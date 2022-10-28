@@ -37,6 +37,7 @@
 <!-- MY TOOLS -->
 ### 🧰 My Custom Tools
 
+- [IntigritiFetcher - Fetch your intigriti programs/invites and some useful info in an easy command](https://github.com/Gomez0015/InitigritiFetcher)
 - [text4shell - Script to test if endpoint(s) is vulnerable to text4shell](https://github.com/Gomez0015/text4shell)
 - [CafeScan - Port Scanner to enumerate services and get important information about them.](https://github.com/Gomez0015/CafeScan)
 - [sqli_help - Simple script to help enumerate boolean & time based sql injections](https://github.com/Gomez0015/sqli_help)
