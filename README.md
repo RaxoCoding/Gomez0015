@@ -1,6 +1,6 @@
 ### Hi there, I'm Oscar - aka [Raxo][twitter] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RaxoCoding?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RaxoCoding?ref_src=twsrc%5Etfw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RaxoCoding?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RaxoCoding)
 
 ## I'm a Coder, Student, Intern, and CTO!!
 
