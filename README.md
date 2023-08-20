@@ -2,16 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RaxoCoding?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RaxoCoding)
 
-## I'm a Coder, Student, Intern, and CTO!!
-
-[Root-Me](https://www.root-me.org/Raxo-589994)
-[THM](https://tryhackme.com/p/RaxoCoding)
-
-- 🌱 I’m currently learning Python and Cybersecurity Skills
-- 👯 I’m looking to collaborate with other coders on their projects
-- 🥅 2022 Goals: Develop a project that will help millions.
-- ⚡ Fun fact: I love to play piano and dirtbike riding
-
 ### Connect with me:
 
 [<image src="https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube&logoColor=red">][youtube]
