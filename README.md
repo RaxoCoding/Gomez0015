@@ -8,21 +8,6 @@
 [<image src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=lightblue">][twitter]
 [<image src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue">][linkedin]
 
-<br />
-
-### Languages and Tools:
-
-<image src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue">
-<image src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=yellow">
-<image src="https://img.shields.io/badge/C%20Language-black.svg?&style=for-the-badge&logo=c&logoColor=pink"> 
-<image src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=windows%20terminal&logoColor=white">      
-<image src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue">
-<image src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
-<image src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=blue"> 
-
-<br />
-<br />
-
 ---
 <!-- MY TOOLS -->
 ### 🧰 My Custom Tools
@@ -57,4 +42,3 @@
 [twitter]: https://twitter.com/RaxoCoding
 [youtube]: https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw
 [linkedin]: https://www.linkedin.com/in/oscargomezceo/
-[portfolio]: https://gomez0015.github.io/PortfolioCMD/
